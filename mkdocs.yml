@@ -1,0 +1,9 @@
+site_name: OpenWHU
+site_url: https://openwhu.github.io
+repo_url: https://github.com/openwhu/OpenWHU
+theme:
+  name: material
+
+remote_branch: preview
+plugins:
+  - search
